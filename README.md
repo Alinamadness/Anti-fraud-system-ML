@@ -26,3 +26,8 @@ KNN
 LOGISTIC REGRESSION
 
 ![image](https://user-images.githubusercontent.com/105233284/227908912-114bcb7a-08ea-4211-acd1-e07eb3a7861a.png)
+
+
+XGBOOST
+
+![image](https://user-images.githubusercontent.com/105233284/229370600-b9ea64d8-fb77-47ee-8973-786bc87e3f40.png)
