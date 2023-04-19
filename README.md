@@ -14,7 +14,8 @@ RANDOM FOREST
 
 
 KNN
-![image](https://user-images.githubusercontent.com/105233284/227908820-e65c0a1a-6463-4eb6-b86d-544734548c1c.png)
+
+![image](https://user-images.githubusercontent.com/105233284/233080487-dcdb762f-2afc-4a58-b140-5debb7279d9a.png)
 
 
 LOGISTIC REGRESSION
